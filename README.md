@@ -13,12 +13,12 @@
 
 | Step | Repository | What it builds |
 |------|-----------|----------------|
-| 1 | [mini-embedding](../mini-embedding) | Word vectors — Skip-gram Word2Vec |
-| 2 | [mini-self-attention](../mini-self-attention) | Multi-head self-attention |
-| 3 | [mini-transformer](../mini-transformer) | Positional encoding + causal decoder |
-| 4 | [mini-gpt](../mini-gpt) | Real corpus, overfitting, evaluation |
-| 5 | [mini-chat](../mini-chat) | Instruction format, loss masking |
-| 6 | [mini-cross-attention](../mini-cross-attention) | Cross-attention module, alignment |
+| 1 | [mini-embedding](https://github.com/JeffreyRed/mini-embedding) | Word vectors — Skip-gram Word2Vec |
+| 2 | [mini-self-attention](https://github.com/JeffreyRed/mini-self-attention) | Multi-head self-attention |
+| 3 | [mini-transformer](https://github.com/JeffreyRed/mini-transformer) | Positional encoding + causal decoder |
+| 4 | [mini-gpt](https://github.com/JeffreyRed/mini-gpt) | Real corpus, overfitting, evaluation |
+| 5 | [mini-chat](https://github.com/JeffreyRed/mini-chat) | Instruction format, loss masking |
+| 6 | [mini-cross-attention](https://github.com/JeffreyRed/mini-cross-attention) | Cross-attention module, alignment |
 | **7** | **mini-translator** ← you are here | English→Spanish NMT, BLEU, soft alignment |
 
 ---

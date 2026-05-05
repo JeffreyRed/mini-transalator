@@ -1,6 +1,6 @@
 # Theory & Code Walkthrough — mini-translator
 
-> Step 7 of the mini-LLM series. Prerequisite: [mini-cross-attention](../mini-cross-attention).
+> Step 7 of the mini-LLM series. Prerequisite: [mini-cross-attention](https://github.com/JeffreyRed/mini-cross-attention).
 
 ---
 
